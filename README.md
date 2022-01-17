@@ -12,15 +12,15 @@ The purpose of this project is to give you an idea about how each of those scann
 
 If you wanna start reading the code, we suggest that you read the code in the following order:
 
- 1. [tcp_connect.py](/blob/main/tcp_connect.py)
- 2. [tcp_syn.py](/blob/main/tcp_syn.py)
- 3. [tcp_null_fin_xmas.py](/blob/main/tcp_null_fin_xmas.py)
- 4. [tcp_maimon.py](/blob/main/tcp_maimon.py)
- 5. [tcp_ack.py](/blob/main/tcp_ack.py)
- 6. [tcp_window.py](/main/tcp_window.py)
- 7. [tcp_idle.py](/blob/main/tcp_idle.py)
- 8. [udp_scan.py](/blob/main/udp_scan.py)
- 9. [ip_protocol_scan.py](/blob/main/ip_protocol_scan.py)
+ 1. [tcp_connect.py](/tcp_connect.py)
+ 2. [tcp_syn.py](/tcp_syn.py)
+ 3. [tcp_null_fin_xmas.py](/tcp_null_fin_xmas.py)
+ 4. [tcp_maimon.py](/tcp_maimon.py)
+ 5. [tcp_ack.py](/tcp_ack.py)
+ 6. [tcp_window.py](/tcp_window.py)
+ 7. [tcp_idle.py](/tcp_idle.py)
+ 8. [udp_scan.py](/udp_scan.py)
+ 9. [ip_protocol_scan.py](/ip_protocol_scan.py)
 
 You can view more details on each of these techniques here: https://nmap.org/book/man-port-scanning-techniques.html
 
