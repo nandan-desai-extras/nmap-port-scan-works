@@ -10,7 +10,7 @@ The code uses [Impacket](https://github.com/SecureAuthCorp/impacket) library to 
 
 The purpose of this project is to give you an idea about how each of those scanning techniques work. The explanation given in the Nmap book is converted into Python code here. As simple as that. Once you understand this code, you will know what Nmap is doing under the hood while it's scanning for ports.
 
-If you wanna start reading the code, we suggest that you read the code in the following order:
+If you want to start reading the code, we suggest that you read the code in the following order:
 
  1. [tcp_connect.py](/tcp_connect.py)
  2. [tcp_syn.py](/tcp_syn.py)
